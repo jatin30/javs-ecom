@@ -1,4 +1,12 @@
 ![MVP drawio](https://github.com/jatin30/javs-ecom/assets/43989729/c80aef0d-08f5-45a6-a95a-69a8feb8e380)
+![Screenshot 2024-05-20 014828](https://github.com/jatin30/javs-ecom/assets/43989729/d000ff54-315d-459d-af61-55191465d749)
+![Screenshot 2024-05-20 014920](https://github.com/jatin30/javs-ecom/assets/43989729/9c997bf3-542e-487e-a7d6-1afafc69b660)
+![Screenshot 2024-05-20 014942](https://github.com/jatin30/javs-ecom/assets/43989729/e9983873-5de2-451a-9377-2073a08db215)
+![Screenshot 2024-05-20 015022](https://github.com/jatin30/javs-ecom/assets/43989729/3c1c200f-a518-4ed5-98e3-5562c189aa0d)
+![Screenshot 2024-05-20 015108](https://github.com/jatin30/javs-ecom/assets/43989729/54242843-bada-46c9-99ad-13e0a045c039)
+![Screenshot 2024-05-20 015123](https://github.com/jatin30/javs-ecom/assets/43989729/6de429bd-0711-4655-b777-7201a76b21f2)
+![Screenshot 2024-05-20 015148](https://github.com/jatin30/javs-ecom/assets/43989729/889d2ceb-abd0-4065-844e-cf4cb71b2a1f)
+
 
 # JAVS Ecommerce
 
