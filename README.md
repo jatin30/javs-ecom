@@ -1,3 +1,5 @@
+![MVP drawio](https://github.com/jatin30/javs-ecom/assets/43989729/c80aef0d-08f5-45a6-a95a-69a8feb8e380)
+
 # JAVS Ecommerce
 
 The project involves the development of a sophisticated and user-friendly e-commerce platform that connects buyers and sellers. Leveraging .NET for backend development and Angular for frontend development, the platform aims to provide a seamless shopping experience for customers while offering robust management tools for vendors
